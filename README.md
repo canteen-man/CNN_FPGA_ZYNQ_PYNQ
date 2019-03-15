@@ -94,7 +94,7 @@ the block design of zynqnet :
 
 
 
-![Alt text](https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ/blob/master/vivado4.png)
+![Alt text](https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ/blob/master/vivado6.png)
 
 
 
