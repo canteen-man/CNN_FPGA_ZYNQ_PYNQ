@@ -63,7 +63,7 @@ the zynqnet resource requirement：
 
 
 
-
+In order to compile zynqnet hls code success, I have to comment some hls optimization.Also it need add several include files.
 the hls source of zynqnet :
 
 
@@ -100,7 +100,7 @@ the block design of zynqnet :
 
 
 
-In order to compile zynqnet hls code success, I have to comment some hls optimization.Also it need add several include files.
+
 
 
 
