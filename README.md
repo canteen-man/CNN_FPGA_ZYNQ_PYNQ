@@ -8,7 +8,7 @@ step 4: use ARM to configure the FPGA by pynq overlay
 this is vivado block design：
 
 
-
+![Alt text](https://github.com/canteen-man/arm_neon_conv_3-3/blob/master/image.png)
 
 
 
