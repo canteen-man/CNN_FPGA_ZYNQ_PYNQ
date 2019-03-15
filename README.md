@@ -36,7 +36,8 @@ this is vivado block design：
 
 
 
-######################################################################################################################
+############################################################
+
 something else：
 zynqnet can't run in the zynq 7020 or pynq. Because  zynq 7020 or pynq don't have enough LUT,BRAM and DSP.
 the zynqnet resource requirement：
