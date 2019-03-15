@@ -52,6 +52,28 @@ the zynqnet resource requirement：
 
 
 
+![Alt text](https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ/blob/master/vivado3.png)
+
+
+
+
+
+
+
+the block design of zynqnet :
+
+
+
+
+
+
+
+
+
+
+![Alt text](https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ/blob/master/vivado4.png)
+
+
 
 
 
