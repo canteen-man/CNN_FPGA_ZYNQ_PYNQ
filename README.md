@@ -1,5 +1,7 @@
 # CNN_FPGA_ZYNQ_PYNQ
 hls code zynq 7020 pynq z2 CNN
+
+
 step 1：hls code can generate IP  core in vivado hls
 
 step 2：use IP core to build block design in vivado,generate bitstream and tcl
@@ -58,6 +60,36 @@ the zynqnet resource requirement：
 
 
 
+
+
+
+
+the hls source of zynqnet :
+
+
+
+
+
+
+
+
+![Alt text](https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ/blob/master/vivado5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In order to compile zynqnet hls code success, I have to comment some hls optimization.Also it need add several include files.
 
 
 the block design of zynqnet :
