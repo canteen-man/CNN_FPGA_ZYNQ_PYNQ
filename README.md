@@ -83,15 +83,6 @@ the hls source of zynqnet :
 
 
 
-
-
-
-
-
-
-In order to compile zynqnet hls code success, I have to comment some hls optimization.Also it need add several include files.
-
-
 the block design of zynqnet :
 
 
@@ -104,6 +95,15 @@ the block design of zynqnet :
 
 
 ![Alt text](https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ/blob/master/vivado4.png)
+
+
+
+
+
+In order to compile zynqnet hls code success, I have to comment some hls optimization.Also it need add several include files.
+
+
+
 
 
 
